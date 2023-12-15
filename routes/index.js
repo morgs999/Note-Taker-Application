@@ -1,5 +1,5 @@
 //ROUTER for server.js
-const router = require('express').Router();
+const api = require('express').Router();
 const notesRouter = require('./notes');
-router.use('/notes', notesRouter);
-module.exports = router;
+api.use('/notes', notesRouter);
+module.exports = api;
