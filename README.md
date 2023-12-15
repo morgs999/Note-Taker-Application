@@ -12,7 +12,7 @@ A web application deployed through Heroku that allows a user to create, save, vi
  - When a new note has text entered, a 'save button' and 'clear button' will apear for the user to decide
  - When a saved note is selected, it will populate the main window, and a 'new button' will appear for the user to create a new note
 
-![App_in_use](../Note%20Taker%20Application/Images/App_in_use.gif)
+![App_in_use](./Images/App_in_use.gif)
 
 
 #### Credits
